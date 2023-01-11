@@ -101,3 +101,7 @@ def cari_data(self):
 ### **CARI DATA**
 
 ![.](image/caridata.png)
+
+### **FILE PDF** 
+
+![.](https://drive.google.com/file/d/1Qzvhk2294tYwMFnf-DeZZaWgzp4-IeMY/view?usp=sharing)
